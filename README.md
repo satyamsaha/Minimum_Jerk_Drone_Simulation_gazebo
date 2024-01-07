@@ -46,7 +46,7 @@ This repository provides instructions on setting up a ROS workspace for PX4 offb
     cd scripts
     ```
 
-7. **Copy Python Files:** Copy the following Python files to the `scripts` folder: `random_path4.py`, `data_saver_1.py`, and `path.py`.
+7. **Copy Python Files:** Copy the following Python files to the `scripts` folder: `random_path_pid.py`, `data_saver_1.py`, and `path.py`.
 
 ## Creating Launch File
 
